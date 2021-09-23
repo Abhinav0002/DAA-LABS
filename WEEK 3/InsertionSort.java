@@ -20,7 +20,6 @@ Question: Given an unsorted array of integers, design an algorithm and a program
 		comparisons = 13
 		shifts = 20
 */
-package prg;
 import java.util.Scanner;
 class InsertionSort {
 	void sort(int arr[])
